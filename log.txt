@@ -1,0 +1,239 @@
+Main : status of thread 0 : NEW
+Main : status of thread 1 : NEW
+Main : status of thread 2 : NEW
+Main : status of thread 3 : NEW
+Main : status of thread 4 : NEW
+Main : status of thread 5 : NEW
+Main : status of thread 6 : NEW
+Main : status of thread 7 : NEW
+Main : status of thread 8 : NEW
+Main : status of thread 9 : NEW
+Main : Id 11 - Thread0 
+Main : Priority : 10 
+Main : OldState : NEW 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 12 - Thread1 
+Main : Priority : 1 
+Main : OldState : NEW 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 13 - Thread2 
+Main : Priority : 10 
+Main : OldState : NEW 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 14 - Thread3 
+Main : Priority : 1 
+Main : OldState : NEW 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 15 - Thread4 
+Main : Priority : 10 
+Main : OldState : NEW 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 16 - Thread5 
+Main : Priority : 1 
+Main : OldState : NEW 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 17 - Thread6 
+Main : Priority : 10 
+Main : OldState : NEW 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 18 - Thread7 
+Main : Priority : 1 
+Main : OldState : NEW 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 19 - Thread8 
+Main : Priority : 10 
+Main : OldState : NEW 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 20 - Thread9 
+Main : Priority : 1 
+Main : OldState : NEW 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 17 - Thread6 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 18 - Thread7 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 19 - Thread8 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 20 - Thread9 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 11 - Thread0 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 19 - Thread8 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 17 - Thread6 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 16 - Thread5 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 15 - Thread4 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 14 - Thread3 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 13 - Thread2 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 12 - Thread1 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 13 - Thread2 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 13 - Thread2 
+Main : Priority : 10 
+Main : OldState : RUNNABLE 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 15 - Thread4 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 15 - Thread4 
+Main : Priority : 10 
+Main : OldState : RUNNABLE 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 17 - Thread6 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 19 - Thread8 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 20 - Thread9 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 20 - Thread9 
+Main : Priority : 1 
+Main : OldState : RUNNABLE 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 11 - Thread0 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 19 - Thread8 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 19 - Thread8 
+Main : Priority : 10 
+Main : OldState : RUNNABLE 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 18 - Thread7 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 17 - Thread6 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 18 - Thread7 
+Main : Priority : 1 
+Main : OldState : RUNNABLE 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 16 - Thread5 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 17 - Thread6 
+Main : Priority : 10 
+Main : OldState : RUNNABLE 
+Main : New State: TERMINATED 
+Main : ***************************Main : Id 15 - Thread4 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 14 - Thread3 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 13 - Thread2 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 14 - Thread3 
+Main : Priority : 1 
+Main : OldState : RUNNABLE 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 12 - Thread1 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 13 - Thread2 
+Main : Priority : 10 
+Main : OldState : RUNNABLE 
+Main : New State: TERMINATED 
+Main : ***************************Main : Id 14 - Thread3 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 12 - Thread1 
+Main : Priority : 1 
+Main : OldState : RUNNABLE 
+Main : New State: TERMINATED 
+Main : ***************************Main : Id 14 - Thread3 
+Main : Priority : 1 
+Main : OldState : RUNNABLE 
+Main : New State: TERMINATED 
+Main : ***************************Main : Id 16 - Thread5 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 18 - Thread7 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 16 - Thread5 
+Main : Priority : 1 
+Main : OldState : RUNNABLE 
+Main : New State: TERMINATED 
+Main : ***************************Main : Id 18 - Thread7 
+Main : Priority : 1 
+Main : OldState : RUNNABLE 
+Main : New State: TERMINATED 
+Main : ***************************Main : Id 19 - Thread8 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 20 - Thread9 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: BLOCKED 
+Main : ***************************Main : Id 11 - Thread0 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: RUNNABLE 
+Main : ***************************Main : Id 11 - Thread0 
+Main : Priority : 10 
+Main : OldState : RUNNABLE 
+Main : New State: TERMINATED 
+Main : ***************************Main : Id 20 - Thread9 
+Main : Priority : 1 
+Main : OldState : BLOCKED 
+Main : New State: TERMINATED 
+Main : ***************************Main : Id 19 - Thread8 
+Main : Priority : 10 
+Main : OldState : BLOCKED 
+Main : New State: TERMINATED 
+Main : ***************************
